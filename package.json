@@ -24,6 +24,7 @@
     "eslint-plugin-import": "^2.8.0"
   },
   "dependencies": {
+    "bluebird": "^3.5.1",
     "config": "^1.29.1",
     "elasticsearch": "^14.0.0",
     "ramda": "^0.25.0"

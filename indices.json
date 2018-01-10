@@ -1,0 +1,404 @@
+{
+  "digest-operations-2017-04-restored": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-03": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-05": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-02-restored": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-08": [
+    "normalize",
+    "correct",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-07": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-10": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-09": [
+    "normalize",
+    "correct",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-06": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-12": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-01-restored": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "digest-operations-2017-11": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "file-metadata-2016-09": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-01": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-03": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "digest-operations-2015-12-b": [
+    "correct",
+    "normalize",
+    "import",
+    "deaccumulate",
+    "reprocess"
+  ],
+  "file-metadata-2017-04": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-05": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2016-12": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2016-11": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2016-08": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-02": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-07": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-10": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2016-10": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-12": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-08": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-06": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-11": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2017-09": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2016-05": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2016-07": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2016-06": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "digest-operations-2018-01": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "file-metadata-2016-04": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "file-metadata-2018-01": [
+    "intermediate-file",
+    "original-file"
+  ],
+  "activity-log-2015": [
+    "proxy",
+    "login"
+  ],
+  "devices-data-2017-10": [
+    "obvius"
+  ],
+  "devices-data-2017-12": [
+    "obvius"
+  ],
+  "devices-data-2017-05": [
+    "obvius"
+  ],
+  "devices-data-2017-03": [
+    "obvius"
+  ],
+  "devices-data-2017-07": [
+    "obvius"
+  ],
+  "devices-data-2017-08": [
+    "obvius"
+  ],
+  "devices-data-2017-11": [
+    "obvius"
+  ],
+  "devices-data-2017-09": [
+    "obvius"
+  ],
+  "devices-data-2017-06": [
+    "obvius"
+  ],
+  "devices-data-2017-04": [
+    "obvius"
+  ],
+  "devices-data-2017-02": [
+    "obvius"
+  ],
+  "devices-data-2017-01": [
+    "obvius"
+  ],
+  "activity-log-2016": [
+    "proxy",
+    "login"
+  ],
+  "devices-data-2016-12": [
+    "obvius"
+  ],
+  "devices-data-2018-01": [
+    "obvius"
+  ],
+  "devices-data-2016-11": [
+    "obvius"
+  ],
+  "activity-log-2014": [
+    "proxy",
+    "login"
+  ],
+  "digest-operations-2015-11-b": [
+    "correct",
+    "normalize",
+    "import",
+    "reprocess"
+  ],
+  "resource-002": [
+    "relationship",
+    "resource"
+  ],
+  "activity-log-2017": [
+    "proxy",
+    "login"
+  ],
+  "resource-001": [
+    "relationship",
+    "resource"
+  ],
+  "push-saved-view-logs": [
+    "primaryArtifact",
+    "artifact",
+    "log"
+  ],
+  "devices-data-2016-10": [
+    "obvius"
+  ],
+  "permissions": [
+    "relationship",
+    "object",
+    "role"
+  ],
+  "user-activity-000": [
+    "proxy",
+    "login"
+  ],
+  "import-dead-letter-queue-001": [
+    "recovery-message"
+  ],
+  "devices-data-2016-08": [
+    "obvius"
+  ],
+  "measurable-003": [
+    "measurable",
+    "physicalMeter",
+    "combo"
+  ],
+  "x-2017-11-29-measurable-003": [
+    "measurable",
+    "physicalMeter",
+    "combo"
+  ],
+  "devices-data-2016-09": [
+    "obvius"
+  ],
+  "devices-data-2016-07": [
+    "obvius"
+  ],
+  "activity-log-2013": [
+    "login",
+    "proxy"
+  ],
+  "devices-data-2016-06": [
+    "obvius"
+  ],
+  "project-007": [
+    "task",
+    "attribute-value"
+  ],
+  "project-006": [
+    "task",
+    "attribute-value"
+  ],
+  "project-005": [
+    "task",
+    "attribute-value"
+  ],
+  "project-004": [
+    "task",
+    "attribute-value"
+  ],
+  "project-002": [
+    "task",
+    "attribute-value"
+  ],
+  "measurable-001": [
+    "measurable"
+  ],
+  "project-001": [
+    "task",
+    "attribute-value"
+  ],
+  "digest-operations-2016-01-b": [
+    "correct",
+    "normalize",
+    "import",
+    "deaccumulate",
+    "s3%3A%2F%2Fcascade-sensei3%2Fmeasurement%2Fdigest%2Fincoming%2F5706.csv%3FversionId%3DR6uKT6I0EbzZHaKv5w95p1ywC5H6og4_"
+  ],
+  "devices-data-2016-05": [
+    "obvius"
+  ],
+  "activity-log-2018": [
+    "proxy",
+    "login"
+  ],
+  "note-001": [
+    "note"
+  ],
+  "import-queue": [
+    "dead-letter"
+  ],
+  "measurement-data-logs": [
+    "log"
+  ],
+  "site-properties-002": [
+    "property",
+    "propertyType",
+    "propertyAttribute"
+  ],
+  "weather-metadata-001": [
+    "measurable-binding",
+    "location"
+  ],
+  "activity-log-2012": [
+    "login",
+    "proxy"
+  ],
+  "bills-diff-2017": [
+    "utility-bill-diff-report"
+  ],
+  "user-license-001": [
+    "license"
+  ],
+  "devices-001": [
+    "obvius-config-file",
+    "obvius"
+  ],
+  "user-001": [
+    "user",
+    "1000187"
+  ],
+  "weather-normalized-2014": [
+    "normalized"
+  ],
+  "site-metadata-001": [
+    "detail"
+  ],
+  "weather-normalized-2013": [
+    "normalized"
+  ],
+  "reporting-measurables": [
+    "request"
+  ],
+  "context-test": [
+    "context"
+  ],
+  "facility-type-001": [
+    "facility"
+  ],
+  "resourcestest": [
+    "resource",
+    "relationship"
+  ],
+  "cohorts-000": [
+    "cohort"
+  ],
+  "digest-operations-2016-05-restored": [
+    "reprocess"
+  ],
+  "context-test-2": [
+    "context"
+  ]
+}
